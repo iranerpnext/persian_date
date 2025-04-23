@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../../../tmp/tmp-15012-mm4ALKOWDFX6/persian_date/persian_date/public/css/customization.bundle.css"],
+  "sourcesContent": [".datepicker-container{\r\n    direction: initial !important;\r\n}\r\n\r\n.datepicker-plot-area .datepicker-day-view .table-days td,\r\n.datepicker-plot-area .datepicker-day-view .month-grid-box .header .header-row-cell,\r\n.datepicker-plot-area .toolbox .pwt-btn-submit,\r\n.datepicker-plot-area .toolbox .pwt-btn-calendar,\r\n.datepicker-plot-area .toolbox .pwt-btn-today {\r\n    float: left;\r\n}\r\n\r\nhtml[dir='rtl'] .datepicker-plot-area .datepicker-navigator {\r\n    display: flex;\r\n}"],
+  "mappings": "AAAA,sBACI,4BAGJ,4RAKI,WAGJ,0DACI",
+  "names": []
+}

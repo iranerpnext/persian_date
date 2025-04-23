@@ -3,5 +3,7 @@
 *.egg-info
 *.swp
 tags
-node_modules
-__pycache__
+frappe_persian_date/docs/current
+node_modules/
+frappe_persian_date/public/node_modules
+frappe_persian_date/public/dist

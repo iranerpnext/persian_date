@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include frappe_persian_date *.css
+recursive-include frappe_persian_date *.csv
+recursive-include frappe_persian_date *.html
+recursive-include frappe_persian_date *.ico
+recursive-include frappe_persian_date *.js
+recursive-include frappe_persian_date *.json
+recursive-include frappe_persian_date *.md
+recursive-include frappe_persian_date *.png
+recursive-include frappe_persian_date *.py
+recursive-include frappe_persian_date *.svg
+recursive-include frappe_persian_date *.txt
+recursive-exclude frappe_persian_date *.pyc
